@@ -14,4 +14,4 @@ The development process for Marine Mission was iterative and involved overcoming
 * Optimized file size and performance
 
 ## License
-MemoryTide is released under the [MIT] (https://opensource.org/license/mit/) License.
+MemoryTide is released under the [MIT](https://opensource.org/license/mit/) License.
