@@ -13,5 +13,5 @@ The development process for Marine Mission was iterative and involved overcoming
 * User-friendly experience with reduced loading times
 * Optimized file size and performance
 
-## Conclusion
-Marine Mission is an excellent example of the innovative and exciting work that can be done with Swift and SpriteKit. The game showcases the developer's skills in these technologies and addresses environmental and societal issues in an engaging and fun format.
+## License
+MemoryTide is released under the MIT License.
