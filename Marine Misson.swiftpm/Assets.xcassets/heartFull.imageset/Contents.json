@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "heartFull.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
